@@ -1,14 +1,11 @@
 
-####### Liri Bot App
-
-
-#### Overview
+###### Liri Bot App Overview
 
 LIRI is like iPhone's SIRI. However, while SIRI is a Speech Interpretation and Recognition Interface, LIRI is a Language Interpretation and Recognition Interface. LIRI will be a command line node app that takes in parameters and gives you back data.
 
 
 
-#### How It Works 
+###### How It Works 
 
 
 **API's Used** 
@@ -32,7 +29,7 @@ LIRI is like iPhone's SIRI. However, while SIRI is a Speech Interpretation and R
 
 
 
-##### Functions
+###### Functions
 
 **Liri.js takes in  two arguments:**
 
@@ -49,7 +46,7 @@ LIRI is like iPhone's SIRI. However, while SIRI is a Speech Interpretation and R
 
 
 
-#### What Each Command Should Do
+###### What Each Command Should Do
 
 
 **Concert-this Function**
@@ -106,7 +103,7 @@ LIRI is like iPhone's SIRI. However, while SIRI is a Speech Interpretation and R
 
 
 
-#### Links
+###### Links
 
 **This App cannot be deployed to GitHub pages or Heroku, as this is a CLI App. A video is provided below.**
 
