@@ -108,7 +108,8 @@ LIRI is like iPhone's SIRI. However, while SIRI is a Speech Interpretation and R
 
 
 ######Links
-[Liri Bot Link](https://fbdel.github.io/liri-node-app/)
+
+[![Watch the video](/screenshots/LiriBot-Screen.png)](https://youtu.be/3ZlwUT_0Gh8)
 
 
 ![ScreenShot OMDb and BandInTown API called](/screenshots/OMDb-BandInTown-API-Results-Screen-Shot.png)
