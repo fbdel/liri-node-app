@@ -1,15 +1,14 @@
 
-#######Liri Bot App
+####### Liri Bot App
 
-#This App cannot be deployed to GitHub pages or Heroku, as this is a CLI App. Screenshots included at the bottom of page, with the results of the 4 functions.
 
-###Overview
+#### Overview
 
 LIRI is like iPhone's SIRI. However, while SIRI is a Speech Interpretation and Recognition Interface, LIRI is a Language Interpretation and Recognition Interface. LIRI will be a command line node app that takes in parameters and gives you back data.
 
 
 
-###How It Works 
+#### How It Works 
 
 
 **API's Used** 
@@ -33,7 +32,7 @@ LIRI is like iPhone's SIRI. However, while SIRI is a Speech Interpretation and R
 
 
 
-#####Functions
+##### Functions
 
 **Liri.js takes in  two arguments:**
 
@@ -50,7 +49,7 @@ LIRI is like iPhone's SIRI. However, while SIRI is a Speech Interpretation and R
 
 
 
-###What Each Command Should Do
+#### What Each Command Should Do
 
 
 **Concert-this Function**
@@ -107,12 +106,9 @@ LIRI is like iPhone's SIRI. However, while SIRI is a Speech Interpretation and R
 
 
 
-######Links
+#### Links
+
+**This App cannot be deployed to GitHub pages or Heroku, as this is a CLI App. A video is provided below.**
 
 [![Watch the video](/screenshots/LiriBot-Screen.png)](https://youtu.be/3ZlwUT_0Gh8)
-
-
-![ScreenShot OMDb and BandInTown API called](/screenshots/OMDb-BandInTown-API-Results-Screen-Shot.png)
-
-![ScreenShot Spotify API called, along with result of arguements extracted from random.txt file](/screenshots/SpotifyAPI-readFile-Command-Screenshot.png)
 
